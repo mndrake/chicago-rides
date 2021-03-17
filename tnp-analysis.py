@@ -66,4 +66,5 @@ sql('optimize chicago_tnp_trips')
 
 # COMMAND ----------
 
-
+# MAGIC %md
+# MAGIC new comment
